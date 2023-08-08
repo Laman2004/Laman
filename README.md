@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Leman200
 - 👀 I’m interested in Data analyst and Data Science
 - 🌱 I’m currently learning Python and Power BI
-- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me lmanmikayilova95@gmail.com
 
 <!---
