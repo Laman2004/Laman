@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Leman200
+- 👋 Hi, I’m @Laman Mikayilova
 - 👀 I’m interested in Data analyst and Data Science
 - 🌱 I’m currently learning Python and Power BI
 - 📫 How to reach me lmanmikayilova95@gmail.com
